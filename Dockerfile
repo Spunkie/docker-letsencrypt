@@ -26,6 +26,7 @@ RUN \
 	gnupg \
 	memcached \
 	nginx \
+	nginx-mod-http-brotli \
 	nginx-mod-http-echo \
 	nginx-mod-http-fancyindex \
 	nginx-mod-http-geoip2 \
